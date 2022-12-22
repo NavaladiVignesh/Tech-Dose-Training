@@ -1,6 +1,6 @@
 package Past Contest Problems.1st Problems;
 
-public class Contest_81 {
+public class Contest_85 {
     public int minimumRecolors(String blocks, int k) {
         int len=blocks.length(),ind=0,count=0,max=0;
         for(int i=0;i<=len-k;i++){

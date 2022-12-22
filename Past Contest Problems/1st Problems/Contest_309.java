@@ -1,6 +1,4 @@
-package Past
-
-Contest Problems.1st Problems;
+package Past Contest Problems.1st Problems;
 
 public class Contest_309 {
     public boolean checkDistances(String s, int[] distance) 
